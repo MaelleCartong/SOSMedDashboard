@@ -29,16 +29,16 @@
         "shipwreck": "Naufragio",
         "incident": "Incidente",
         "death": "Persone morte e disperse",
-        "more": "Mostra di più",
-        "less": "Mostra meno"
+        "more": "Di più",
+        "less": "Meno"
     },
     "stats": {
         "females": "Donne",
         "males": "Uomini", 
         "minors": "Minori",
-        "pregnants": "Incinte",
-        "unaccompanied": "Non accompagnati",
-        "children": "Bambini",
+        "pregnants": "Donne incinte",
+        "unaccompanied": "Minori non accompagnati",
+        "children": "Bambini sotto i 5 anni",
         "nationalities": "Nazionalità",
         "peoples": "Naufraghi",
         "opDays": "Giorni in operazioni",
